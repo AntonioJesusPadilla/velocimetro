@@ -397,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = velocimetro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = es.ajpp.velocimetro;
@@ -408,6 +409,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = velocimetro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = es.ajpp.velocimetro;
@@ -480,6 +482,7 @@
 				F1A377961C74BD3400DC4153 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1A377971C74BD3400DC4153 /* Build configuration list for PBXNativeTarget "velocimetroTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +491,7 @@
 				F1A377991C74BD3400DC4153 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1A3779A1C74BD3400DC4153 /* Build configuration list for PBXNativeTarget "velocimetroUITests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +500,7 @@
 				F1A3779C1C74BD3400DC4153 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
